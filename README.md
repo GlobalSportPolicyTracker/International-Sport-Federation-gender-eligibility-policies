@@ -15,6 +15,8 @@ To help organisations and sport federations better understand what other sports 
 
 Full codebook and interpretation guide for each of the indicators can be found [here](codebook_and_documentation.md)
 
+In the dataset, you will find archived links to the sources of policy information - this ensures that if the organisation removes the documentation from their public facing websites, you will still be able to access the policy as it was announced. You will also find a **"notes"** section of each policy indicator - this gives an indepth explanation of the policy in place as stated by the International Sport Federation (IF). 
+
 This data is **NOT** meant to be used or considered as a statement on whether or not certain individuals should participate in sport - it has been developed to help aid and support the difficult conversations that are happening within sporting organsiations around the world, and to allow for systematic and consistent comparison of international sport federation policies. 
 
 This dataset will expand as we add more International Sport Federations, and also the regulations of large international multisport organisation (i.e., IOC, Commonwealth Games Federation, etc) 
